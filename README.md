@@ -59,6 +59,7 @@ an example:
 - [Karamax](https://github.com/Karamax)
 - [Danielandro](https://github.com/Danielandro)
 - [spywhere](https://github.com/spywhere)
+- [shriyansh](https://github.com/Shriyansh-J)
 - [karajrish](https://github.com/karajrish)
 - [wiardvanrij](https://github.com/wiardvanrij)
 - [JSANL](https://github.com/JSANL)
